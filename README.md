@@ -1,55 +1,64 @@
- ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+ ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I´m Raphael, system administrator in germany bavaria
+# I'm Serag El-Din 👨‍💻
+### Web Developer | Problem Solver | Tech Enthusiast 🚀
+
+I'm a passionate **Web Developer** who loves building modern, scalable, and user-friendly web applications.  
+I enjoy turning ideas into real-world digital solutions and constantly improving my skills.
+
+---
 
 ## 🚀💻 Technologies & Tools
 
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-  ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
-  ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-  ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
-  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-  
-  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-  ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
-  ![Nextcloud](https://img.shields.io/badge/Nextcloud-0484cc?style=flat-square&logo=nextcloud)
-  ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
-  ![InfluxDB](https://img.shields.io/badge/InfluxDB-black?style=flat-square&logo=influxdb)
-  ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
-  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-  ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
-  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
-  ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash)
-  ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana)
-  ![Icinga2](https://img.shields.io/badge/Icinga2-06062C?style=flat-square&logo=icinga)
-  ![Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go)
-  ![Angular](https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular)
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![Angular](https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular)
+![MaterialUI](https://img.shields.io/badge/MaterialUI-0081CB?style=flat-square&logo=material-ui)
 
-  ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
-  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
-  ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
-  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
-  ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
-  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
-  ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
+### 🖥 Backend
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
+![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
 
+### ⚙ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+---
 
 ## ⚡ GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rafi0101&show_icons=true&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi0101&layout=compact&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafi0101&theme=gruvbox" />  
-<a href="https://github.com/rafi0101/Android-Room-Database-Backup" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Android-Room-Database-Backup&theme=gruvbox""></a>
-<a href="https://github.com/rafi0101/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Stundenplan&theme=gruvbox""></a>
-<a href="https://github.com/rafi0101/traefik-ssl-certificate-exporter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=traefik-ssl-certificate-exporter&theme=gruvbox""></a>
-<a href="https://github.com/rafi0101/logstash-pipelines" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=logstash-pipelines&theme=gruvbox""></a>  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafi0101.rafi0101)
+---
+
+## 🌟 Featured Projects
+
+- 🔥 Project One – Short description
+- 🚀 Project Two – Short description
+- 🌐 Portfolio Website – Short description
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Serag-blue?style=flat-square&logo=linkedin)](#)
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](#)
+[![Portfolio](https://img.shields.io/badge/Website-Visit-black?style=flat-square&logo=google-chrome)](#)
+
+---
+
+⭐ *Always learning. Always building.*
