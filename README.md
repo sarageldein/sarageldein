@@ -55,10 +55,65 @@ I also enjoy working with **C++** and **Python** for problem solving, algorithms
 ---
 
 ## 📫 Connect With Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Serageldein-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:yourmail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Website-Visit-black?style=flat-square&logo=google-chrome)](https://yourwebsite.com)
+## 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Serageldein-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-@YOUR_USERNAME-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Serageldein-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@YOUR_USERNAME-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://t.me/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-@YOUR_USERNAME-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/201XXXXXXXXX" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://yourportfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://stackoverflow.com/users/YOUR_ID" target="_blank">
+  <img src="https://img.shields.io/badge/StackOverflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
+
+<a href="https://dev.to/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-Blog-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://discordapp.com/users/YOUR_ID" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-Serageldein-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
