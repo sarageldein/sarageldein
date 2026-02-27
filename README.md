@@ -1,97 +1,55 @@
- # 👋 Hey, I'm Moepoi!
+ ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-> 21 y.o Developer | Anime Lover | Building Moe-powered Projects ✨
+I´m Raphael, system administrator in germany bavaria
 
-I'm a passionate developer who loves creating projects related to **anime**, games, and fun internet tools.  
-I enjoy building things that mix creativity with code.
+## 🚀💻 Technologies & Tools
 
----
-
-## 🚀 Currently Learning
-
-<p align="center">
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+  ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+  ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+  ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
   
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+  ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
+  ![Nextcloud](https://img.shields.io/badge/Nextcloud-0484cc?style=flat-square&logo=nextcloud)
+  ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
+  ![InfluxDB](https://img.shields.io/badge/InfluxDB-black?style=flat-square&logo=influxdb)
+  ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
+  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+  ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
+  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
+  ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash)
+  ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana)
+  ![Icinga2](https://img.shields.io/badge/Icinga2-06062C?style=flat-square&logo=icinga)
+  ![Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go)
+  ![Angular](https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular)
 
-</p>
+  ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
+  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
+  ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+  ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
+  ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+  ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
 
----
 
-## 🌟 Featured Projects
+## ⚡ GitHub Stats
 
-- 🔥 **Frontier of Hell**  
-  https://github.com/moepoi/Frontier-of-Hell
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rafi0101&show_icons=true&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafi0101&layout=compact&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rafi0101&theme=gruvbox" />  
+<a href="https://github.com/rafi0101/Android-Room-Database-Backup" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Android-Room-Database-Backup&theme=gruvbox""></a>
+<a href="https://github.com/rafi0101/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Stundenplan&theme=gruvbox""></a>
+<a href="https://github.com/rafi0101/traefik-ssl-certificate-exporter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=traefik-ssl-certificate-exporter&theme=gruvbox""></a>
+<a href="https://github.com/rafi0101/logstash-pipelines" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=logstash-pipelines&theme=gruvbox""></a>  
 
-- 🍳 **Kitchen Counts**  
-  https://github.com/moepoi/Kitchen_Counts
-
-- 🌸 **Nekoya**  
-  https://github.com/Nekoya-Site
-
-- 📚 **Easy Learn**  
-  https://github.com/Easy-Learn/App/releases/tag/v1.0.1
-
-- 📱 **Neonime App**  
-  https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public
-
-- 🤖 **Nepgear Bot**  
-  https://t.me/NepgearBot
-
-- 🌐 **WhoisBot**  
-  https://t.me/WhoisBot
-
-- ⚡ **Moe API**  
-  https://beta.moe.team
-
----
-
-## 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=moepoi" />
-</p>
-
----
-
-## 🎌 Anime & Otaku Side
-
-<p align="center">
-  <img src="https://img.anili.st/user/161753" width="500"/>
-</p>
-
-<details>
-<summary>📊 Recent AniList Activity</summary>
-
-<!-- anilist_activity starts -->
-* Plans to watch **Honzuki no Gekokujou 4th Season**
-* Watched **Cang Yuan Tu**
-* Watched **Gaishi Dizun**
-* Watched **Dubu Xiaoyao**
-* Watched **Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu**
-<!-- anilist_activity ends -->
-
-</details>
-
----
-
-## 📬 Contact Me
-
-<p align="center">
-
-<a href="https://t.me/moepoi"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
-<a rel="me" href="https://moe.onl/@moepoi"><img src="https://img.shields.io/badge/Mastodon-%40moepoi-blueviolet"></a>
-<a href="https://linkedin.com/in/moepoi"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
-<a href="mailto:moe@poi.lol"><img src="https://img.shields.io/badge/Email-moe%40poi.lol-orange"></a>
-<a href="https://moepoi.dev"><img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red"></a>
-
-</p>
-
----
-
-⭐ *Feel free to connect, collaborate, or build something awesome together!*
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafi0101.rafi0101)
