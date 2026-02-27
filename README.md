@@ -1,10 +1,10 @@
  ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-# I'm Serag El-Din 👨‍💻
-### Web Developer | Problem Solver | Tech Enthusiast 🚀
+# I'm Serageldein 👨‍💻
+### Web Developer | C++ & Python Developer | Problem Solver 🚀
 
 I'm a passionate **Web Developer** who loves building modern, scalable, and user-friendly web applications.  
-I enjoy turning ideas into real-world digital solutions and constantly improving my skills.
+I also enjoy working with **C++** and **Python** for problem solving, algorithms, and backend development.
 
 ---
 
@@ -17,9 +17,10 @@ I enjoy turning ideas into real-world digital solutions and constantly improving
 ![Angular](https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular)
 ![MaterialUI](https://img.shields.io/badge/MaterialUI-0081CB?style=flat-square&logo=material-ui)
 
-### 🖥 Backend
+### 🖥 Backend & Programming
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=c%2B%2B)
 ![Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
@@ -47,17 +48,17 @@ I enjoy turning ideas into real-world digital solutions and constantly improving
 
 ## 🌟 Featured Projects
 
-- 🔥 Project One – Short description
-- 🚀 Project Two – Short description
-- 🌐 Portfolio Website – Short description
+- 🔥 Project One – Short description  
+- 🚀 Project Two – Short description  
+- 🌐 Portfolio Website – Short description  
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Serag-blue?style=flat-square&logo=linkedin)](#)
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](#)
-[![Portfolio](https://img.shields.io/badge/Website-Visit-black?style=flat-square&logo=google-chrome)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Serageldein-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:yourmail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Website-Visit-black?style=flat-square&logo=google-chrome)](https://yourwebsite.com)
 
 ---
 
